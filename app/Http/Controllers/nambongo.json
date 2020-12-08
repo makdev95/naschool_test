@@ -1,0 +1,42 @@
+[
+
+
+{"id":1,"matricule":"EADBSJ4",
+	"banque_id":1,"ecole_id":1,
+	"reference":"FG021656HT66676237",
+	"montant":39000,
+	"moi_id":2,
+	"user_id":3,"token":"fbbb7943aa3fa6f7677d8955c512094e6f366d06",
+	"created_at":"2020-11-26 15:58:56",
+	"updated_at":"2020-11-26 15:58:56",
+	"annee":2020,
+
+"user":
+{"id":3,
+"first_name":"test 1",
+"last_name":"Agent",
+"phone":"06 970 48 98",
+"address":"Centre ville",
+"email":"agenttest1@gmail.com",
+"banque_id":1,"role_id":3,
+"token":"8e8b458a4c34266ead0bc22227dfb79fdaa53b73",
+"active":1,
+"created_at":"2020-09-18 02:41:57",
+"updated_at":"2020-09-18 02:41:57"
+},
+
+"banque":
+{
+"id":1,
+"name":"Ecobank",
+"address":"Quelque part",
+"phone":"0323244",
+"email":"info@ecobank.com",
+"token":"a11e133bcccd317bd92907041205e8bc01bcf538",
+"active":1,
+"created_at":"2020-08-14 17:13:13",
+"updated_at":"2020-08-14 17:13:13"}
+
+}
+
+]
